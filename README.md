@@ -2,7 +2,7 @@
 
  > A lightweight, elegant maintenance scheduling and tracking front-end — keeps your equipment, tasks, and teams organized.
 
- ![MaintMaster](docs/logo.png)
+ ![MaintMaster](logo.png)
 
  > Note: This repository currently contains a single static entry point `index.html`. This README documents what MaintMaster is, how to run it locally, and how to contribute.
 
